@@ -17,3 +17,6 @@ body{
     flex-flow:row;
     justify-content: space-evenly;
 }
+.www{
+    color: darksalmon;
+}
