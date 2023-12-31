@@ -16,6 +16,7 @@ body{
     display: flex;
     flex-flow:row;
     justify-content: space-evenly;
+    background-color: darkcyan;
 }
 .www{
     color: darksalmon;
